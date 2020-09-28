@@ -1,0 +1,8 @@
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\exercise_!\exercise_!\obj\Debug\exercise_!.csprojResolveAssemblyReference.cache
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\exercise_!\exercise_!\obj\Debug\exercise__.Form1.resources
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\exercise_!\exercise_!\obj\Debug\exercise__.Properties.Resources.resources
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\exercise_!\exercise_!\obj\Debug\exercise_!.csproj.GenerateResource.Cache
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\exercise_!\exercise_!\bin\Debug\exercise_!.exe
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\exercise_!\exercise_!\bin\Debug\exercise_!.pdb
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\exercise_!\exercise_!\obj\Debug\exercise_!.exe
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\exercise_!\exercise_!\obj\Debug\exercise_!.pdb
